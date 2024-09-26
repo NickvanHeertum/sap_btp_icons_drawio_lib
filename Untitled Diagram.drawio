@@ -266,7 +266,7 @@
         <mxCell id="os3nQUvahwV-cfpxZdLo-101" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.97;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#432D57;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;fillColor=#76608a;" edge="1" parent="1" source="os3nQUvahwV-cfpxZdLo-95" target="os3nQUvahwV-cfpxZdLo-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="os3nQUvahwV-cfpxZdLo-102" value="&lt;b&gt;And User&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="os3nQUvahwV-cfpxZdLo-102" value="&lt;b&gt;End User&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="254.20000000000002" y="70" width="127.59" height="30" as="geometry" />
         </mxCell>
         <mxCell id="os3nQUvahwV-cfpxZdLo-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/150px-Microsoft_Azure.svg.png;container=0;" vertex="1" parent="1">
